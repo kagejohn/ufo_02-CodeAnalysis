@@ -1,4 +1,4 @@
-The 10 checks that i have picked is:<br><br>
+The 10 checks that i have picked is:<br>
 LawOfDemeter, ControlStatementBraces, ShortVariable, UnusedFormalParameter, GodClass, UselessParentheses, ConfusingTernary, GuardLogStatement, AvoidLiteralsInIfCondition, AvoidDeeplyNestedIfStmts.<br><br>
 I generated a PMD report based on all checks and then i looked through it to see what checks that i thought was important.<br><br>
 I picked LawOfDemeter because low coupling is a good idea because the lower the coupling is the less you have to change for example when you change part of a class then you don't have to change all classes that use one or more of the methods in the class.<br><br>
